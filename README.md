@@ -1,10 +1,8 @@
-# Proyecto Final de la materia de Deep Learning de la Maestría en Ciencia de Datos
-
-**Profesor:** Francisco 
+# Utilización del algoritmo de recomendaciones aplicado a una base de datos de Netflix. 
 
 **Integrantes del equipo**
 
-| # | Alumno                           | Clave única |
+| # | Alumno                           | Cuenta de Github |
 |---|-----------------------------------|-------------|
 | 1 | Angel Rafael Ortega Ramírez | 123972      |
 
