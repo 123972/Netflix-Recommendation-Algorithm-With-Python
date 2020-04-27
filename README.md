@@ -7,7 +7,8 @@
 | # | Alumno                           | Clave única |
 |---|-----------------------------------|-------------|
 | 1 | Angel Rafael Ortega Ramírez | 123972      |
-| 2 | Carlos Tabares         | CU      |
+
+Los datps que se utilizarán son los datos de la competencia de kaggle en la sigguiente [liga](https://www.kaggle.com/netflix-inc/netflix-prize-data)
 
 
 
